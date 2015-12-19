@@ -1,0 +1,8 @@
+*{margin:0; padding: 0; border: 0;}
+body {background:#FFFFFF; }
+
+.cabecalho{background: #00bcd4; width: 100%; padding: 0 7px 0 0; height: 191px; border-bottom: 3px solid #006666;}
+.cabecalho img {width: 115px; margin:12px 0 0 126px; border-radius: 100px; border:5px solid #FFF;}
+span{color: #FFF; text-transform: uppercase; border-bottom: 1px solid #000; font-size: 35px; font-family: sans-serif; margin: 21px 0 0 27px; padding: 0 215px 0 0; position: absolute;}
+#modulo{text-transform: uppercase; font-family: sans-serif; margin: -66px 0 0 276px; }
+#info{font-weight: bold;}
