@@ -23,7 +23,7 @@
 			  
 			<ul> 
 			     <li id="menu">MENU PRINCIPAL</li>
-			     <li id="nivel">NÍVEL 01</li>
+			     <a href="index"><li>HOME</li></a>
 				 <li>Modulo 01</li>
 				 <li>Modulo 02</li>
 				 <li>Modulo 03</li>

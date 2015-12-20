@@ -6,15 +6,16 @@ body {background:#FFFFFF; }
 #aluno{color: #FFF; text-transform: uppercase; border-bottom: 1px solid #000; font-size: 35px; font-family: sans-serif; margin: 21px 0 0 27px; padding: 0 215px 0 0; position: absolute;}
 #modulo{text-transform: uppercase; font-family: sans-serif; margin: -66px 0 0 276px; }
 #info{font-weight: bold;}
-#principal {float:left; width: 1078px; height:1156px; background: #DFFDFF; margin: 22px 0px 0px 127px; border:1px solid #000;}
+#principal {float:left; width: 1078px; height:1200px; background: #DFFDFF; margin: 22px 0px 0px 127px; border:1px solid #000;}
 #menu-esquerdo{float:left; width: 253px; height:0; background: #BDF2F5; margin:11px 0 0 13px;}
 #menu-esquerdo ul{border:1px solid #000; list-style-type: none;}
 #menu-esquerdo li{border-bottom:1px solid #07ADAD; list-style-type: none; height:29px; font-family:sans-serif; padding-top:15px; padding-left:10px;}
+#menu-esquerdo  a{text-decoration: none; color:#000;}
 #espaco{margin: 0 0 -35px 0; background:#FFF;}
 #menu {background: #354236; font-family:sans-serif; text-align:center; color:#FFF; border-bottom: #006666;}
 #nivel{font-family: sans-serif; color:#FFF; background:#07ADAD;}
 #conteudo{background:#FFF; border:1px solid #000; margin: 11px 0 0 284px; position:absolute; width:779px; height:682px;}
 #conteudo h1{background:#00bcd4; font-family:sans-serif; font-size:46px; width: 707px; color:#FFF; text-align:center; margin: 45px 0 0 36px; height:170px; padding-top: 10px;}
 #conteudo li{list-style-type:none; border-bottom:1px solid #000; position:relative; width:722px; padding:39px 0 0 0; margin: 0 0 0 33px;}
-#rodape{margin: 1200px 0 0 0; width: 100%; height: 55px; background:#00BCD4; border-top:3px solid #006666; font-family:sans-serif; color:#FFF; text-align:center; }
+#rodape{margin: 1248px 0 0 0; width: 100%; height: 55px; background:#00BCD4; border-top:3px solid #006666; font-family:sans-serif; color:#FFF; text-align:center; }
 
